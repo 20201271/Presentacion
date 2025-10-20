@@ -1,4 +1,4 @@
-# Base de Datos: Calidad Institucional y Desarrollo en Sudamérica
+# Base de Datos: Los determinantes políticos e institucionales de la ratificación del Acuerdo de Escazú en Sudamérica
 
 Este repositorio contiene la base de datos unificada utilizada para analizar la relación entre la ratificación del Acuerdo de Escazú, la calidad democrática, la soberanía estatal y el nivel de desarrollo económico en países sudamericanos.
 
